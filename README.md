@@ -5,5 +5,5 @@ Live link: https://the-lama-shop.vercel.app/
 
 Admin_Page: https://lama-shop-admin.vercel.app/login 
 Admin_Details: 
-USername: LAMA_ADMIN
+Username: LAMA_ADMIN
 Password: 123
